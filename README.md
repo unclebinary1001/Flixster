@@ -54,7 +54,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthough GIF
 
-<img src="walkthrough_part_1" width=250><br>
+<img src="walkthrough_part_1.png" width=250><br>
 
 ### Notes
 Made use of slack channel to resolve issues concerning MovieAdapter class not in same directory as MainActivity and dependency issues with the AsyncHttpClient
